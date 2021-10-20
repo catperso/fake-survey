@@ -6,7 +6,7 @@
   border: 3px solid gray;
 }
 
-.output {
+#output {
   display: none;
   float: right;
   width: 50%;
