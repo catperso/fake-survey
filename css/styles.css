@@ -1,0 +1,13 @@
+#formOne {
+  width: 20%;
+}
+
+.btn {
+  border: 3px solid gray;
+}
+
+.output {
+  display: none;
+  float: right;
+  width: 50%;
+}
